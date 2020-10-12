@@ -1,4 +1,4 @@
-<img  src="https://github-readme-stats.vercel.app/api?username=jue&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for jue">
+<img  src="https://github-readme-stats.vercel.app/api?username=jue&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for JUE">
 
 ### Hi there 👋  
 
